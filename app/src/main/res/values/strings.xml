@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Taller3</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-1576900140416872/2300423548</string>
+</resources>
